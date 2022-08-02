@@ -1,0 +1,15 @@
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\bin\Debug\net6.0\Marbles.exe
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\bin\Debug\net6.0\Marbles.deps.json
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\bin\Debug\net6.0\Marbles.runtimeconfig.json
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\bin\Debug\net6.0\Marbles.dll
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\bin\Debug\net6.0\Marbles.pdb
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.csproj.AssemblyReference.cache
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.AssemblyInfoInputs.cache
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.AssemblyInfo.cs
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.csproj.CoreCompileInputs.cache
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.dll
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\refint\Marbles.dll
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.pdb
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\Marbles.genruntimeconfig.cache
+C:\Users\jus14\OneDrive\Documents\Marbles\Marbles\Marbles\obj\Debug\net6.0\ref\Marbles.dll
