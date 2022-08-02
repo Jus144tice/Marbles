@@ -1,50 +1,32 @@
-﻿string stringVariable = "Hello world";
-double doubleVariable = 123.456;
-bool boolVariable = true;
+﻿Console.WriteLine("Guess a random number between 1 and 10:");
+int userGuess = int.Parse(Console.ReadLine());
+Console.WriteLine("You guessed: " + userGuess);
 
-int intVariable;
+Random rnd = new Random();
+int computerGuess = rnd.Next() % 10 + 1;
 
+Console.WriteLine("The computer guessed: " + computerGuess);
 
-Console.WriteLine("Enter an integer:");
-intVariable = int.Parse(Console.ReadLine());
-
-if (intVariable > 0)
+if (userGuess == computerGuess)
 {
-    Console.WriteLine("It's positive");
-}
-else if (intVariable < 0)
-{
-    Console.WriteLine("It's negative");
+    Console.WriteLine("You got it right!");
 }
 else
 {
-    Console.WriteLine("It's exactly 0");
+    Console.WriteLine("That is wrong, good try");
 }
 
-char charVariable;
+String userInput;
+Console.WriteLine("Enter a string:");
 
-Console.WriteLine("Enter a character: ");
-charVariable = char.Parse(Console.ReadLine());
-Console.WriteLine("You entered: " + charVariable);
+userInput = Console.ReadLine();
+Console.WriteLine("You typed: " + userInput);
 
-int counter = 10;
-
-while (counter > 0)
+while (userInput != "Hello")
 {
-    Console.WriteLine("Counter is now: " + counter);
-    --counter;
-
-    if (counter == 5)
-    {
-        Console.WriteLine("Ending the loop early");
-        break;
-    }
+    Console.WriteLine("I don't understand, can you try again?");
+    userInput = Console.ReadLine();
+    Console.WriteLine("You typed: " + userInput);
 }
 
-/*
-stringVariable = "Goodbye";
-intVariable = 5678;
-
-
-Console.WriteLine(intVariable);
-*/
+Console.WriteLine("Nice to meet you");
