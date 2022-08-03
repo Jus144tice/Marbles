@@ -1,10 +1,11 @@
 ﻿using Marbles;
+using System.Text;
 
 Marble marble1 = new Marble(1, "blue", "Bob", 0.5);
 Marble marble2 = new Marble(2, "red", "Jim", 0.75);
 
-Console.WriteLine("Marble - " + marble1);
-Console.WriteLine("Marble - " + marble2);
+Console.WriteLine("Marble - " + marble1 + ", Palindrome? " + StringHelper.IsPalindrome(marble1.Name));
+Console.WriteLine("Marble - " + marble2 + ", Palindrome? " + StringHelper.IsPalindrome(marble2.Name));
 
 /*
 
