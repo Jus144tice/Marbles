@@ -1,4 +1,14 @@
-﻿Console.WriteLine("Guess a random number between 1 and 10:");
+﻿using Marbles;
+
+Marble marble1 = new Marble(1, "blue", "Bob", 0.5);
+Marble marble2 = new Marble(2, "red", "Jim", 0.75);
+
+Console.WriteLine("Marble - " + marble1);
+Console.WriteLine("Marble - " + marble2);
+
+/*
+
+Console.WriteLine("Guess a random number between 1 and 10:");
 int userGuess = int.Parse(Console.ReadLine());
 Console.WriteLine("You guessed: " + userGuess);
 
@@ -30,3 +40,5 @@ while (userInput != "Hello")
 }
 
 Console.WriteLine("Nice to meet you");
+
+*/
